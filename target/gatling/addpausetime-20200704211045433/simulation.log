@@ -1,0 +1,6 @@
+RUN	test.scala.AddPauseTime	addpausetime	1593897045433	 	3.3.1
+USER	Video game db -3 calls - pause time	1	START	1593897047852	1593897047852
+REQUEST	1		Get All Games	1593897047917	1593897048001	OK	 
+REQUEST	1		Get All Games-1st	1593897053030	1593897053040	KO	status.find.is(100), but actually found 200
+REQUEST	1		Get All Games-2nd	1593897058441	1593897058449	OK	 
+USER	Video game db -3 calls - pause time	1	END	1593897047852	1593897058456

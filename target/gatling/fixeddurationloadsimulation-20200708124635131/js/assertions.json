@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.FixedDurationLoadSimulation",
+  "simulationId": "fixeddurationloadsimulation",
+  "start": 1594212395131,
+  "description": "",
+  "scenarios": ["Fixed Duration Simulation"],
+  "assertions": [
+
+  ]
+}

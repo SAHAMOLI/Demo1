@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.firstNewClass",
+  "simulationId": "firstnewclass",
+  "start": 1593862686916,
+  "description": "",
+  "scenarios": ["My First Test"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.AddPauseTime",
+  "simulationId": "addpausetime",
+  "start": 1593897045433,
+  "description": "",
+  "scenarios": ["Video game db -3 calls - pause time"],
+  "assertions": [
+
+  ]
+}

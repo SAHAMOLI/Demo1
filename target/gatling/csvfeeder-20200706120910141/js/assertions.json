@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.csvFeeder",
+  "simulationId": "csvfeeder",
+  "start": 1594037350141,
+  "description": "",
+  "scenarios": ["Csv Feeder test"],
+  "assertions": [
+
+  ]
+}

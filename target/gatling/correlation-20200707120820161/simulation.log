@@ -1,0 +1,6 @@
+RUN	test.scala.Simulation.correlation	correlation	1594123700161	 	3.3.1
+USER	Check JSON path	1	START	1594123702270	1594123702270
+REQUEST	1		Get Specific games	1594123702353	1594123702573	OK	 
+REQUEST	1		Get All video games	1594123706979	1594123706994	OK	 
+REQUEST	1		Get specific game 	1594123707029	1594123707036	KO	jsonPath($.name).find.is(Gran Turismo 4), but actually found Gran Turismo 3
+USER	Check JSON path	1	END	1594123702270	1594123707047

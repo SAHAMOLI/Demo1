@@ -1,0 +1,6 @@
+RUN	test.scala.Simulation.correlation	correlation	1593972298536	 	3.3.1
+USER	Check JSON path	1	START	1593972300918	1593972300918
+REQUEST	1		Get Specific games	1593972301076	1593972301157	KO	jsonPath($.name).find.is(Resident Evil 5), but actually found Resident Evil 4
+REQUEST	1		Get All video games	1593972307221	1593972307236	OK	 
+REQUEST	1		Get specific game 	1593972307274	1593972307290	OK	 
+USER	Check JSON path	1	END	1593972300918	1593972307302

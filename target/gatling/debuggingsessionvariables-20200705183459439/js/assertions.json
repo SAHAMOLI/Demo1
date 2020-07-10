@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.debuggingsessionvariables",
+  "simulationId": "debuggingsessionvariables",
+  "start": 1593974099439,
+  "description": "",
+  "scenarios": ["Check JSON path"],
+  "assertions": [
+
+  ]
+}

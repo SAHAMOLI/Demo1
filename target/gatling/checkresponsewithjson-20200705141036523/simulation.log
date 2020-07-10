@@ -1,0 +1,4 @@
+RUN	test.scala.Simulation.checkresponsewithJson	checkresponsewithjson	1593958236523	 	3.3.1
+USER	Check JSON path	1	START	1593958238556	1593958238556
+REQUEST	1		Get Specific games	1593958238628	1593958238714	KO	jsonPath($.name).find.is(Resident Evil 5), but actually found Resident Evil 4
+USER	Check JSON path	1	END	1593958238556	1593958242251

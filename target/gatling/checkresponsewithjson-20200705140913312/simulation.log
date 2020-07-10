@@ -1,0 +1,4 @@
+RUN	test.scala.Simulation.checkresponsewithJson	checkresponsewithjson	1593958153312	 	3.3.1
+USER	Check JSON path	1	START	1593958155401	1593958155401
+REQUEST	1		Get Specific games	1593958155502	1593958155637	OK	 
+USER	Check JSON path	1	END	1593958155401	1593958160893

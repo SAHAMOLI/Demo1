@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.RampUsersLoadSimulation",
+  "simulationId": "rampusersloadsimulation",
+  "start": 1594210821710,
+  "description": "",
+  "scenarios": ["Basic Load Simulation"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.basicLoadSimulation",
+  "simulationId": "basicloadsimulation",
+  "start": 1594206894015,
+  "description": "",
+  "scenarios": ["Basic Load Simulation 2", "Basic Load Simulation"],
+  "assertions": [
+
+  ]
+}

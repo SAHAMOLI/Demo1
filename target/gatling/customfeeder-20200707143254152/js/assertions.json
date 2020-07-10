@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.CustomFeeder",
+  "simulationId": "customfeeder",
+  "start": 1594132374152,
+  "description": "",
+  "scenarios": ["Post new games"],
+  "assertions": [
+
+  ]
+}

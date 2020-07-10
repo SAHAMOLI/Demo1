@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.codereusewithobjects",
+  "simulationId": "codereusewithobjects",
+  "start": 1593976454744,
+  "description": "",
+  "scenarios": ["Code reuse"],
+  "assertions": [
+
+  ]
+}

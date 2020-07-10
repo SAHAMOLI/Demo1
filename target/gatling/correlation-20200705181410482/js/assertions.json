@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.correlation",
+  "simulationId": "correlation",
+  "start": 1593972850482,
+  "description": "",
+  "scenarios": ["Check JSON path"],
+  "assertions": [
+
+  ]
+}

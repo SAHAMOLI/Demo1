@@ -1,0 +1,8 @@
+RUN	test.scala.Simulation.complexCustomFeeder	complexcustomfeeder	1594127841015	 	3.3.1
+USER	Post new games	1	START	1594127843166	1594127843166
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1594127843310
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1594127844346
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1594127845355
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1594127846359
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1594127847358
+USER	Post new games	1	END	1594127843166	1594127848365

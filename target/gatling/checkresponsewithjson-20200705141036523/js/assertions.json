@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.Simulation.checkresponsewithJson",
+  "simulationId": "checkresponsewithjson",
+  "start": 1593958236523,
+  "description": "",
+  "scenarios": ["Check JSON path"],
+  "assertions": [
+
+  ]
+}
